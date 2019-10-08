@@ -1,6 +1,6 @@
 # PARGT: A standalone software tool for predicting antimicrobial resistance in bacteria 
 
-PARGT (version 1.0) runs on Windows, Mac, and Linux. For installation of this tool, please read the manuals. If you find our tool useful, please cite our following papers. 
+PARGT (version 1.0) runs on Windows, Mac, and Linux. For installation and application of this tool, please read the manuals. If you find our tool useful, please cite our following papers. 
 
 Citations:
 1.  Chowdhury, A.S., Call, D.R and and Broschat, S.L., To be submitted. PARGT: A standalone software tool for predicting antimicrobial resistance in bacteria. Scientific Reports.
