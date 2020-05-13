@@ -7,4 +7,4 @@ Citations:
 2.	Chowdhury, A.S., Call, D.R. and Broschat, S.L., 2019. Antimicrobial resistance prediction for Gram-negative bacteria via game theory-based feature evaluation. Scientific Reports.
 
 
-If you find any bugs or you have suggestions/comments, please contact Abu Sayed Chowdhury (Email: abu.chowdhury@pnnl.gov, abu.chowdhury2005@gmail.com). Thank you for using PARGT!
+If you find any bugs or you have suggestions/comments, please contact Abu Sayed Chowdhury (Email: abu.chowdhury2005@gmail.com). Thank you for using PARGT!
