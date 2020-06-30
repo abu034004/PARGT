@@ -8,4 +8,4 @@ Citations:
 3.	Chowdhury, A.S., Khaledian, E. and Broschat, S.L., 2019. Capreomycin resistance prediction in two species of Mycobacterium using a stacked ensemble method. Journal of applied microbiology.
 
 
-If you find any bugs or you have suggestions/comments, please contact Abu Sayed Chowdhury (Email: abu.chowdhury@wsu.edu, achowdhu@nmdp.org). Thank you for using PARGT!
+If you find any bugs or you have suggestions/comments, please contact Abu Sayed Chowdhury (Email: abu.chowdhury@wsu.edu, abu.chowdhury2005@gmail.com). Thank you for using PARGT!
